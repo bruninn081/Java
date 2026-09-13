@@ -19,17 +19,5 @@ public class confirmacao {
 // Resposta nao reconhecida: [talvez]
     public static void main(String[] args) {
 
-    System.out.print("Deseja continuar? ");
-
-    Scanner sc = new Scanner(System.in);
-    
-    String x = sc.nextLine();
-    
-    if (,complate) {
-        
-    }
-    
-
-    sc.close();
     }
 }
